@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="76805351-004e-4025-9e42-371a3c8eb4dd" name="FCA">
+        <fileTransfer rootFolder="/home/zhuocheng/FCA" accessType="SFTP" host="10.1.114.156" port="22" sshConfigId="489ec968-bf17-4ecc-9ffd-44b0a0004d88" sshConfig="zhuocheng@10.1.114.156:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
